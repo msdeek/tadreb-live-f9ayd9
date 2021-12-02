@@ -1,0 +1,8 @@
+{
+  "name": "tadreb.live",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "0b6dffe1"
+}
